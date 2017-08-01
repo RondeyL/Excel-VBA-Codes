@@ -1,4 +1,3 @@
-Attribute VB_Name = "Select_Every_Nth_Separated_Col"
 Sub Select_Every_Nth_Separated_Column()
     Application.ScreenUpdating = False
     Dim C As Range, u As Range
