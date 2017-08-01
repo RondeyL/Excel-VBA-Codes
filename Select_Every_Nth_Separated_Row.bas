@@ -1,4 +1,4 @@
-'   Upon selection of a range of cells, run the code below and user-input your desired the separation number.
+'   Upon selection of a range of cells, input your desired row separation number   
 
 Sub Select_Every_Nth_Separated_Row()
     Application.ScreenUpdating = False
