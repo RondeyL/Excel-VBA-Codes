@@ -1,3 +1,5 @@
+'   Upon selection of a range of cells, input your desired column separation number.
+
 Sub Select_Every_Nth_Separated_Column()
     Application.ScreenUpdating = False
     Dim C As Range, u As Range
