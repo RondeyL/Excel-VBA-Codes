@@ -1,6 +1,6 @@
 '   Upon selection of a range of cells, input your desired row separation number.
 
-Sub Select_Every_Nth_Separated_Row()
+Sub Select_Every_Nth_Row()
     Application.ScreenUpdating = False
     Dim C As Range, u As Range
     Dim trig As Double
